@@ -14,18 +14,6 @@ I build practical ML solutions for real-world video/image workflows — from det
 
 ---
 
-## About Me
-
-- 🎓 Engineering graduate from **École Polytechnique de Tunisie**
-- 🧠 3+ years of hands-on experience in ML/DL
-- 🎯 Core domains:
-  - Computer Vision
-  - Deep Learning for video understanding
-  - Data analysis and model-driven decision systems
-- ⚙️ Typical stack: `Python`, `PyTorch`, `Ultralytics YOLO`, `OpenCV`, `Pandas`, `NumPy`
-
----
-
 ## Featured Projects
 
 ### 1) Moving vs Stationary Persons Detection (Real-Time)
