@@ -20,7 +20,6 @@ Building production AI systems for real-world image and video workflows.
 
 ## About
 
-<img align="right" alt="Minimal workspace animation" width="330" src="./images/hire.gif">
 
 I design, build, and ship machine-learning systems that move beyond notebooks into useful products. My work sits at the intersection of computer vision, deep learning, backend APIs, and production deployment.
 
