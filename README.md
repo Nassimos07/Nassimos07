@@ -14,6 +14,41 @@ Building production AI systems for real-world image and video workflows.
 [![Upwork](https://img.shields.io/badge/Upwork-111111?style=for-the-badge&logo=upwork&logoColor=white&labelColor=555555)](https://www.upwork.com/freelancers/~013cf1e92a2b62e552)
 [![Email](https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=white&labelColor=555555)](mailto:nassimhammemiwork@gmail.com)
 
+<br>
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://api.iconify.design/lucide:briefcase-business.svg?color=%23555555" width="22" alt="Projects icon" />
+      <br>
+      <strong>80+</strong>
+      <br>
+      <sub>ML/CV projects</sub>
+    </td>
+    <td align="center">
+      <img src="https://api.iconify.design/lucide:cpu.svg?color=%23555555" width="22" alt="Systems icon" />
+      <br>
+      <strong>Production AI</strong>
+      <br>
+      <sub>model to deployment</sub>
+    </td>
+    <td align="center">
+      <img src="https://api.iconify.design/lucide:scan-eye.svg?color=%23555555" width="22" alt="Vision icon" />
+      <br>
+      <strong>Computer Vision</strong>
+      <br>
+      <sub>detection · tracking · segmentation</sub>
+    </td>
+    <td align="center">
+      <img src="https://api.iconify.design/lucide:cloud-cog.svg?color=%23555555" width="22" alt="Cloud icon" />
+      <br>
+      <strong>MLOps</strong>
+      <br>
+      <sub>Docker · AWS · CI/CD</sub>
+    </td>
+  </tr>
+</table>
+
 </div>
 
 ---
@@ -31,6 +66,59 @@ I design, build, and ship machine-learning systems that move beyond notebooks in
 - **Strengths:** detection, segmentation, tracking, model evaluation, deployment, and performance tuning.
 - **Working style:** clear pipelines, rigorous evaluation, practical automation, and maintainable systems.
 - **Location:** Tunisia, working remotely with international teams.
+
+<h2>
+  <img src="https://api.iconify.design/lucide:workflow.svg?color=%23555555" width="22" alt="Workflow icon" />
+  Production Workflow
+</h2>
+
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://api.iconify.design/lucide:database.svg?color=%23555555" width="22" alt="Data icon" />
+      <br>
+      <strong>Data</strong>
+      <br>
+      <sub>collection · labeling · QA</sub>
+    </td>
+    <td align="center">→</td>
+    <td align="center">
+      <img src="https://api.iconify.design/lucide:brain-circuit.svg?color=%23555555" width="22" alt="Training icon" />
+      <br>
+      <strong>Training</strong>
+      <br>
+      <sub>experiments · tuning</sub>
+    </td>
+    <td align="center">→</td>
+    <td align="center">
+      <img src="https://api.iconify.design/lucide:chart-spline.svg?color=%23555555" width="22" alt="Evaluation icon" />
+      <br>
+      <strong>Evaluation</strong>
+      <br>
+      <sub>metrics · error analysis</sub>
+    </td>
+    <td align="center">→</td>
+    <td align="center">
+      <img src="https://api.iconify.design/lucide:server-cog.svg?color=%23555555" width="22" alt="API icon" />
+      <br>
+      <strong>API</strong>
+      <br>
+      <sub>FastAPI · inference</sub>
+    </td>
+    <td align="center">→</td>
+    <td align="center">
+      <img src="https://api.iconify.design/lucide:rocket.svg?color=%23555555" width="22" alt="Deployment icon" />
+      <br>
+      <strong>Deploy</strong>
+      <br>
+      <sub>Docker · AWS · CI/CD</sub>
+    </td>
+  </tr>
+</table>
+
+</div>
 
 <h2>
   <img src="https://api.iconify.design/lucide:layers-3.svg?color=%23555555" width="22" alt="Stack icon" />
