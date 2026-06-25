@@ -18,18 +18,24 @@ Building production AI systems for real-world image and video workflows.
 
 ---
 
-## About
+<h2>
+  <img src="https://api.iconify.design/lucide:user-round.svg?color=%23555555" width="22" alt="Profile icon" />
+  About
+</h2>
 
 
 I design, build, and ship machine-learning systems that move beyond notebooks into useful products. My work sits at the intersection of computer vision, deep learning, backend APIs, and production deployment.
 
-- ◼ **Focus:** computer vision, applied deep learning, MLOps, and AI product engineering.
-- ◼ **Experience:** 80+ delivered ML/CV projects across medical imaging, agriculture, sports, finance, and applied AI.
-- ◼ **Strengths:** detection, segmentation, tracking, model evaluation, deployment, and performance tuning.
-- ◼ **Working style:** clear pipelines, rigorous evaluation, practical automation, and maintainable systems.
-- ◼ **Location:** Tunisia, working remotely with international teams.
+- **Focus:** computer vision, applied deep learning, MLOps, and AI product engineering.
+- **Experience:** 80+ delivered ML/CV projects across medical imaging, agriculture, sports, finance, and applied AI.
+- **Strengths:** detection, segmentation, tracking, model evaluation, deployment, and performance tuning.
+- **Working style:** clear pipelines, rigorous evaluation, practical automation, and maintainable systems.
+- **Location:** Tunisia, working remotely with international teams.
 
-## Core Stack
+<h2>
+  <img src="https://api.iconify.design/lucide:layers-3.svg?color=%23555555" width="22" alt="Stack icon" />
+  Core Stack
+</h2>
 
 <div align="center">
 
@@ -56,7 +62,10 @@ I design, build, and ship machine-learning systems that move beyond notebooks in
 
 </div>
 
-## Selected Work
+<h2>
+  <img src="https://api.iconify.design/lucide:briefcase-business.svg?color=%23555555" width="22" alt="Work icon" />
+  Selected Work
+</h2>
 
 | Project | Scope | Technologies |
 | --- | --- | --- |
@@ -65,35 +74,50 @@ I design, build, and ship machine-learning systems that move beyond notebooks in
 | **Emgenisys** | Deep-learning system for bovine embryo grade, stage, sex, and pregnancy prediction from video. | Python · PyTorch · tracking · MLflow |
 | **BovEye** | Multispectral cattle-detection system tuned for small objects and complex backgrounds. | YOLOv11 · RF-DETR · PyTorch · COCO evaluation |
 
-## Services
+<h2>
+  <img src="https://api.iconify.design/lucide:settings-2.svg?color=%23555555" width="22" alt="Services icon" />
+  Services
+</h2>
 
-- ◻ Build custom computer-vision pipelines for detection, tracking, segmentation, and analytics.
-- ◻ Train, evaluate, fine-tune, and package models for deployment.
-- ◻ Design data workflows for annotation, QA, experiment tracking, and reproducibility.
-- ◻ Create FastAPI/Docker/AWS foundations for production ML systems.
-- ◻ Improve performance, reliability, and maintainability of existing ML codebases.
+- Build custom computer-vision pipelines for detection, tracking, segmentation, and analytics.
+- Train, evaluate, fine-tune, and package models for deployment.
+- Design data workflows for annotation, QA, experiment tracking, and reproducibility.
+- Create FastAPI/Docker/AWS foundations for production ML systems.
+- Improve performance, reliability, and maintainability of existing ML codebases.
 
-## Current Direction
+<h2>
+  <img src="https://api.iconify.design/lucide:compass.svg?color=%23555555" width="22" alt="Direction icon" />
+  Current Direction
+</h2>
 
-- ◼ Robust video analytics for noisy real-world environments.
-- ◼ Better evaluation workflows for detection, segmentation, and tracking.
-- ◼ Practical AI products with clean APIs and deployment automation.
-- ◼ Applied computer vision for healthcare, sports, agriculture, and industrial workflows.
+- Robust video analytics for noisy real-world environments.
+- Better evaluation workflows for detection, segmentation, and tracking.
+- Practical AI products with clean APIs and deployment automation.
+- Applied computer vision for healthcare, sports, agriculture, and industrial workflows.
 
-## GitHub Snapshot
+<h2>
+  <img src="https://api.iconify.design/lucide:chart-no-axes-combined.svg?color=%23555555" width="22" alt="Analytics icon" />
+  GitHub Snapshot
+</h2>
 
 <div align="center">
   <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Nassimos07&show_icons=true&theme=graywhite&hide_border=true&title_color=111111&text_color=444444&icon_color=555555&include_all_commits=true&count_private=true" alt="GitHub stats" />
   <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Nassimos07&layout=compact&langs_count=8&theme=graywhite&hide_border=true&title_color=111111&text_color=444444" alt="Top languages" />
 </div>
 
-## Languages
+<h2>
+  <img src="https://api.iconify.design/lucide:languages.svg?color=%23555555" width="22" alt="Languages icon" />
+  Languages
+</h2>
 
-- ◼ **English:** Fluent
-- ◼ **French:** Fluent
-- ◼ **Arabic:** Native
+- **English:** Fluent
+- **French:** Fluent
+- **Arabic:** Native
 
-## Contact
+<h2>
+  <img src="https://api.iconify.design/lucide:send.svg?color=%23555555" width="22" alt="Contact icon" />
+  Contact
+</h2>
 
 <div align="center">
 
