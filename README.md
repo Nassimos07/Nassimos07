@@ -1,11 +1,3 @@
-
-
-<h2>
-  <img src="https://api.iconify.design/lucide:user-round.svg?color=%23555555" width="22" alt="Profile icon" />
-  About
-</h2>
-
-
 I design, build, and ship machine-learning systems that move beyond notebooks into useful products. My work sits at the intersection of computer vision, deep learning, backend APIs, and production deployment.
 
 - **Focus:** computer vision, applied deep learning, MLOps, and AI product engineering.
