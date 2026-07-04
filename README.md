@@ -1,11 +1,5 @@
 <div align="center">
 
-# Nassim Hammami
-
-### Machine Learning & Computer Vision Engineer
-
-Building production AI systems for real-world image and video workflows.
-
 <br>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=githubpages&logoColor=white&labelColor=555555)](https://nassimos07.github.io/nassim-hammami)
